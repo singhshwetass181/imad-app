@@ -23,4 +23,9 @@ p {
     font-style: italic;
     Color: red;
 }
-
+h1 {
+    text-align: center;
+    color: lime;
+    word-spacing: 1px;
+    border: inset 4px blue;
+}
